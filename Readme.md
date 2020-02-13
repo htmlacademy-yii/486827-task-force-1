@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Вячеслав Овсянкин](https://up.htmlacademy.ru/yii/1/user/486827).
-* Наставник: [Влад Григорев](https://#).
+* Наставник: [Влад Григорев](https://up.htmlacademy.ru/yii/1/user/1249831).
 
 ---
 
